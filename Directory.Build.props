@@ -1,0 +1,10 @@
+﻿<Project>
+  <PropertyGroup>
+    <SourceControlInformationFeatureSupported>true</SourceControlInformationFeatureSupported>
+
+    <Version>1.2.3.4</Version>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryBranch>master</RepositoryBranch>
+  </PropertyGroup>
+  <Target Name="InitializeSourceControlInformation" />
+</Project>
